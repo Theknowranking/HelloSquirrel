@@ -2,15 +2,15 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Erick Sanchez**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**HelloSquirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😆💙💥**
 
 ## Application Features
 
@@ -18,9 +18,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Change profile name to your name
-- [ ] Change profile bio text to a personal bio about yourself
-- [ ] Modify hobby section to include your top three (3) hobbies
+- [X] Change profile name to your name
+- [X] Change profile bio text to a personal bio about yourself
+- [X] Modify hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
@@ -35,9 +35,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='![SmartSelect_20240223_202527_Hello Squirrel](https://github.com/Theknowranking/HelloSquirrel/assets/54183267/7bdc1644-3ce5-45e2-b3ef-b5520d3aea46)' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+GIF created with **SmartSelect**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -50,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2024** **Erick Sanchez**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
