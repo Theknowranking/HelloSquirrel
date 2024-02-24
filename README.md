@@ -35,7 +35,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![SmartSelect_20240223_202527_Hello Squirrel](https://github.com/Theknowranking/HelloSquirrel/assets/54183267/7bdc1644-3ce5-45e2-b3ef-b5520d3aea46)' title='Video Demo' width='' alt='Video Demo' />
+![SmartSelect_20240223_202527_Hello Squirrel](https://github.com/Theknowranking/HelloSquirrel/assets/54183267/38b29911-8a0a-4af5-a502-5beecd285a3e)
+
 
 
 GIF created with **SmartSelect**
